@@ -1,6 +1,8 @@
-# TinyDash theme for Dashactyl v0.4
+# TinyDash Theme for Dashactyl v0.4
 
 **IMPORTANT: THIS THEME IS OUTDATED AND SHOULD NOT BE USED**
+
+This theme has been previously used by AlacticHost.
 
 ## Installation
 1. Download all files and upload to your Dashactyl folder.
