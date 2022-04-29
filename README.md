@@ -16,11 +16,9 @@
 - Ads Spamming Page (can cause adsense termination)
 - Pretty much everything is custom
 
+## Overview
+<img width="1980" alt="Capture" src="https://user-images.githubusercontent.com/90507395/147951056-52693e61-65f4-4d3c-9204-f068aec8cd92.PNG">
+
 ## Quick Note
 Just a reminder that I won't be updating this theme no matter what, because it's already public, and for a couple of reasons. Do not direct message me if you want me to add features or make you a free theme.
 
-## Overview
-<img width="944" alt="Capture" src="https://user-images.githubusercontent.com/90507395/147951056-52693e61-65f4-4d3c-9204-f068aec8cd92.PNG">
-
-## Credits
-Specially thanks to... me...
